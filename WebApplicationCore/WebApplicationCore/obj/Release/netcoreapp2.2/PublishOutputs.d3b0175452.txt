@@ -1,0 +1,7 @@
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Release\netcoreapp2.2\PubTmp\Out\web.config
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.Development.json
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Release\netcoreapp2.2\PubTmp\Out\appsettings.json
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Release\netcoreapp2.2\PubTmp\Out\WebApplicationCore.dll
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Release\netcoreapp2.2\PubTmp\Out\WebApplicationCore.runtimeconfig.json
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Release\netcoreapp2.2\PubTmp\Out\WebApplicationCore.pdb
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Release\netcoreapp2.2\PubTmp\Out\WebApplicationCore.deps.json

@@ -1,0 +1,78 @@
+info: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[0]
+      User profile not available. Using 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ASP.NET\4.0.30319.0\AutoGenKeys\S-1-5-82-1252752990-280280761-1470359842-205448402-368058995\DataProtection' as key repository and Windows DPAPI to encrypt keys at rest.
+Hosting environment: Development
+Content root path: D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore
+Application started. Press Ctrl+C to shut down.
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:8050/api/values  
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore)'
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[3]
+      Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller WebApplicationCore.Controllers.ValuesController (WebApplicationCore).
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore) - Validation state: Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action method WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 13.9446ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'System.String[]'.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore) in 270.3242ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore)'
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 401.741ms 200 application/json; charset=utf-8
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:8050/api/values  
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore)'
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[3]
+      Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller WebApplicationCore.Controllers.ValuesController (WebApplicationCore).
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore) - Validation state: Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action method WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.0763ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'System.String[]'.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore) in 2.3571ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore)'
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 10.8419ms 200 application/json; charset=utf-8
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:8050/api/values  
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore)'
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[3]
+      Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller WebApplicationCore.Controllers.ValuesController (WebApplicationCore).
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore) - Validation state: Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action method WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.7208ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'System.String[]'.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore) in 1.4221ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore)'
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 2.7734ms 200 application/json; charset=utf-8
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[1]
+      Request starting HTTP/1.1 GET http://localhost:8050/api/values  
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore)'
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[3]
+      Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller WebApplicationCore.Controllers.ValuesController (WebApplicationCore).
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[1]
+      Executing action method WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore) - Validation state: Valid
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action method WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.7501ms.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[1]
+      Executing ObjectResult, writing value of type 'System.String[]'.
+info: Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker[2]
+      Executed action WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore) in 1.2484ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'WebApplicationCore.Controllers.ValuesController.Get (WebApplicationCore)'
+info: Microsoft.AspNetCore.Hosting.Internal.WebHost[2]
+      Request finished in 2.5081ms 200 application/json; charset=utf-8
+Application is shutting down...

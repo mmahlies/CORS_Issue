@@ -1,0 +1,36 @@
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\WebApplicationCore.deps.json
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\WebApplicationCore.runtimeconfig.json
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\WebApplicationCore.runtimeconfig.dev.json
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\WebApplicationCore.dll
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\WebApplicationCore.pdb
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.AssemblyInfoInputs.cache
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.AssemblyInfo.cs
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.RazorAssemblyInfo.cache
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.RazorAssemblyInfo.cs
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.RazorTargetAssemblyInfo.cache
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.dll
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.pdb
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.genruntimeconfig.cache
+C:\Users\mohamed.mahlies\source\repos\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\web.config
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\web.config
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\appsettings.json
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\WebApplicationCore.deps.json
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\WebApplicationCore.runtimeconfig.json
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\WebApplicationCore.runtimeconfig.dev.json
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\WebApplicationCore.dll
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\bin\Debug\netcoreapp2.2\WebApplicationCore.pdb
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.csprojAssemblyReference.cache
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.AssemblyInfoInputs.cache
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.AssemblyInfo.cs
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.csproj.CoreCompileInputs.cache
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.RazorAssemblyInfo.cache
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.RazorAssemblyInfo.cs
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.RazorTargetAssemblyInfo.cache
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.dll
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.pdb
+D:\My Work\Cors\WebApplicationCore\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.2\WebApplicationCore.genruntimeconfig.cache
